@@ -1,0 +1,3 @@
+- abra o arquivo plantuml.odl 
+- ative os macros e instale no seu libreoffice
+-coloque o plantuml.jar nos caminhos  “c:\users\<username>\My Documents” no  Windows 7 e “/home/<username>/Documents/” no Ubuntu. 
