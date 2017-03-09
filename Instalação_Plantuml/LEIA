@@ -1,3 +1,4 @@
 - abra o arquivo plantuml.odl 
+- vá em Ferramentas->opções->seguraça->segurança de macros-> média e permita a execução.
 - ative os macros e instale no seu libreoffice
 -coloque o plantuml.jar nos caminhos  “c:\users\<username>\My Documents” no  Windows 7 e “/home/<username>/Documents/” no Ubuntu. 
